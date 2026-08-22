@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**1-IV/1-IV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img width="380" height="300" alt="1000161106" src="https://github.com/user-attachments/assets/ff06c086-1bbf-4cc0-a173-d5a0dc851ac9" />
+<table>
+  <tr>
+    <td>
+  busy at the moment
+    </td>
+  </tr>
+</table>
+expect late or short responses (⁠^⁠^⁠)
+<a href="https://fluffle.cc/wormholes">directory</a> <> <a href="https://fourteen.atabook.org/">atabook</a>
+</div>
