@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-  busy at the moment
+  <img width="100" height="50" alt="1000161911" src="https://github.com/user-attachments/assets/a1cceb3a-51a9-413c-847e-6eeb1e8e8a1d" />
     </td>
   </tr>
 </table>
