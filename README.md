@@ -9,13 +9,7 @@
     
 <img width="280" height="200" alt="destiny" src="https://github.com/user-attachments/assets/ff06c086-1bbf-4cc0-a173-d5a0dc851ac9" />
   
-<table>
-  <tr>
-    <td>
-  <a href="https://fluffle.cc/wormholes">directory</a> (⁠^⁠^⁠) <a href="https://fourteen.atabook.org/">atabook</a>
-    </td>
-  </tr>
-</table>
+  <a href="https://fluffle.cc/wormholes"><img width="400" alt="directory" src="https://github.com/user-attachments/assets/681445bd-84bd-458c-8959-a6f446baef0d" /></a>
 
 <img width="110" alt="spoke" src="https://github.com/user-attachments/assets/e8d702c4-7374-432c-b59a-d4cfedaa2d31" />
 
